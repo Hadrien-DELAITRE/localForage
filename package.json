@@ -38,7 +38,7 @@
     "uglify-js": "^2.3.x"
   },
   "browser": "src/localforage.js",
-  "main": "dist/localforage.js",
+  "main": "dist/false.js",
   "licence": "Apache-2.0",
   "bugs": {
     "url": "http://github.com/mozilla/localForage/issues"

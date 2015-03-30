@@ -37,6 +37,9 @@ module.exports = exports = function(grunt) {
                         'src/utils/**/*.js',
                         'src/drivers/**/*.js',
                         'src/localforage.js'
+                    ],
+                    'dist/false.js': [
+                        'src/false.js'
                     ]
                 },
                 options: {
